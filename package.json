@@ -20,7 +20,7 @@
     "redux-thunk": "^2.3.0",
     "throttle-debounce": "^2.1.0"
   },
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage" : "https://pl2ern4.github.io/crs",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
